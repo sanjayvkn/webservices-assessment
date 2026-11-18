@@ -1,0 +1,6 @@
+OpenWeatherMap cities used in Part A
+
+Postman (by name): Auckland, Wellington, Christchurch, London, Paris
+Postman (by coordinates): 40.73,-73.99 / 45.43,8.6 / -37.81,144.96
+cURL (by name): Queenstown, Dunedin, Rotorua, Munich, Madrid
+cURL (by coordinates): 45.43,8.6 / -33.85,151.22 / 47.6,-122.33
