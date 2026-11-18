@@ -1,0 +1,6 @@
+SOAP calculator results (http://www.dneonline.com/calculator.asmx?wsdl)
+
+Add: 20 + 5 = 25
+Subtract: 20 - 5 = 15
+Multiply: 20 x 5 = 100
+Divide: 20 / 5 = 4
